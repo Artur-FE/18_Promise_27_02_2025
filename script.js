@@ -50,3 +50,6 @@ fetch('https://jsonplaceholder.typicode.com/users')
   document.body.appendChild(usersList);
 });
             
+
+
+//дополнение
